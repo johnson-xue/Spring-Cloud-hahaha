@@ -16,9 +16,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>SpringCloudStudy</artifactId>
+    <artifactId>Spring-Cloud-hahaha</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringCloudStudy</name>
+    <name>Spring-Cloud-hahaha</name>
     <description>SpringCloudStudy</description>
     <properties>
         <java.version>1.8</java.version>
